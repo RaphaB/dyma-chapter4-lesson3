@@ -1,0 +1,13 @@
+Plus prioritaire
+- !
+- **
+- *, /, %
+- +, -
+- >, >=, <, <=
+- ==, ===, !=
+- &&
+- ||
+- =
+- not
+- or, and
+Moins prioritaire
